@@ -1,0 +1,21 @@
+# Bảo mật
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
